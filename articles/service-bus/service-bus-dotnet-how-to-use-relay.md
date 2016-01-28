@@ -65,7 +65,7 @@ To create a service namespace:
 
 	> [AZURE.IMPORTANT] Pick the *same region* that you intend to choose for deploying your application. This will give you the best performance.
 
-6.	Leave the other fields in the dialog box with their default values (**Messaging** and **Standard** tier), then click the check mark. The system now creates your namespace and enables it. You might have to wait several minutes as the system provisions resources for your account.
+6.	Leave the other fields in the dialog box with their default values (**Messaging** and **Standard** tier; you could also use **Premium** tier, if required), then click the check mark. The system now creates your namespace and enables it. You might have to wait several minutes as the system provisions resources for your account.
 
 	![](./media/service-bus-dotnet-how-to-use-relay/getting-started-multi-tier-27.png)
 
