@@ -242,6 +242,6 @@ Update the back-end pool setting to remove the probe and time-out setting by usi
 
 ### Step 4
 
-Save the configuration to the application gateway by using **Set-AzureRmApplicationGateway**. While verbose mode is not necessary it is a good idea to use it for such operation's progress tracking.
+Save the configuration to the application gateway by using **Set-AzureRmApplicationGateway**.
 
-	Set-AzureRmApplicationGateway -ApplicationGateway $getgw -verbose
+	Set-AzureRmApplicationGateway -ApplicationGateway $getgw
